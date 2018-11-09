@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "blu19-club",
+    "default": "blu19-club"
+  }
+}
